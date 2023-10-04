@@ -1,0 +1,86 @@
+background="" coloca dentro das aspas o endereço de imagem
+bgcolor="" nome da cor isso se coloca dentro do body para troca de cor 
+<marquee é uma animação no texto
+dd definição
+dt determinar o termo
+DL lista ordenada
+type disc formato do item
+li*3 ou mais numeros para a quantidade de vezes que vou usar o mesmo código
+<ul não ordenado
+<type para o tipo de numereção
+<start para dar inicio de uma determinada numeração
+<li para classificar
+<ol para lista ordenada
+Listas.html
+Abrir o arquivo index.html
+!
+primeiro o elemento segundo atributo
+alt+shit+seta para baixo
+alt+z querbra 
+< elem >
+<h1> heading- cabeçalho ou título
+<p>paragrafo
+deve haver mais de um código as vezes para identificar 
+<br quebra de linha
+para dar espaçamento de uma palavra de outra é preciso de uma entidade caractere: &nbsp;
+MARCA do site direito do site &copy; &reg;
+sublinhar <u>
+<b> negrito
+<I> detalhe
+doctype avisa a versão que esta sendo utilizada
+CTRL+X cortar mo world a palavra
+ctrl+c copiar
+ctrl+v colar
+ctrl+z desfazer
+ctrl+r/y refaz a alteração
+ctrl+i deixar o texto em italico
+ctrl+n negrito
+ctrl+s/u sublinhar
+alt+z quebra
+ctrl+t/a selecionar o texto todo
+ctrl+e centralizar o texto após estar selecionado
+header(cabeçario, introduz o nome do site, concientiza o leitor do conteúdo).
+<a ancor( lugar do hyperlink)
+footer ( o rodapé, onde vai informações da empresa, etc)
+<article artigo, organização
+<section seção do artigo
+<main estrura 
+HTML Semâtico
+<nav navegação
+3 estados do link: 1 ativo vermelho, 2 visitado roxo, 3 não visitado azul
+<cite citação em itálico
+<em destaca mas sem alinha do <mark
+<strong destaca em negrito
+<code altera a fonte para a mais antiga
+<img serve para a instrutura para o site
+<border é literalmente a borda
+Dentro do <img>, widht(largura) height(altura)
+TH=título
+TD=conteúdo
+TR=nova linha
+thead=
+table=
+colspan=define quantas colunas o título tem
+tbody=
+rowspan=define quantas linhas tem
+alt+seta para baixo mandar oque selecionou para uma linha a baixo
+src= si coloca o endereço de imagem para colocar a imagem q quer
+form=
+fieldset=serve para criar um contorno a palavra que criamos
+input=
+id=
+maxlenght=
+size=
+label=
+input=
+fieldset
+select=
+option=
+shift+alt+seta para baixo copiar a linnha
+CSS= cascading style sheets folhas de estilos de cascatas
+3 tipos de css= 
+1 na linha ou(inline)
+verboso=código com muitos códigos
+seletor|prpriedade|valor
+Externo
+organizar o código= indentação shift+alt+f
